@@ -1,0 +1,2 @@
+C:\Users\Maurício\Desktop\ShootingGameDemo\ShootingGameDemo\ShootingGameDemoContent\obj\x86\Debug\ShootingGameDemoContent.contentprojResolveAssemblyReference.cache
+C:\Users\Maurício\Desktop\Estudo\XNA\SpaceShooters\Project\ShootingGameDemo\ShootingGameDemo\ShootingGameDemoContent\obj\x86\Debug\ShootingGameDemoContent.contentprojResolveAssemblyReference.cache
